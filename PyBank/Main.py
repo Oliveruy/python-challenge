@@ -74,8 +74,4 @@ export_filename = "analysis/financial_analysis.txt"
 export_to_text(export_filename, result_text)
 
 
-# In[ ]:
-
-
-
 

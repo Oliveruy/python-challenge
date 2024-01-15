@@ -18,8 +18,9 @@ This repository contains two Python projects:
 Provides financial analysis to the Budget data found in the resource folder.
 
 ### 2. Pypoll
-
+Provides vote analysis based on the election data found in the resource folder and provide the resulting 'winner' based on getting majority of the votes.
 
 ## References:
 adding a line break - https://stackoverflow.com/questions/45377903/how-to-add-a-line-break-in-python
 representing infinite number - https://stackoverflow.com/questions/7781260/how-can-i-represent-an-infinite-number-in-python
+append a variable - https://stackoverflow.com/questions/4435169/how-do-i-append-one-string-to-another-in-python
